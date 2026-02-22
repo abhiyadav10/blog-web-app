@@ -8,7 +8,7 @@
    eg: MONGODB_URI = Yourlink of Mongo 
 3. Also add in .env 
    eg: JWT_SECRET = MyTopSecretBlog
-In Your terminal
+> In Your terminal
 4. Run: npm i
 5. Run: npm run dev 
 
